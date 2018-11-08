@@ -1,0 +1,32 @@
+
+
+.input {
+	width: 50%;
+	/*margin: 0 auto;*/
+	padding: .35em;
+	border-radius: .5em;
+}
+
+#oddeven-tester {
+	width: 50%;
+	border: 1px solid darkblue;
+	background-color: darkslateblue;
+	padding: 1em;
+	border-radius: 1em;
+}
+
+.container-fluid {
+	padding: 5em;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#answer-number {
+	margin-top: 1em;
+	color: white;
+}
+
+.text {
+	color: white;
+}
